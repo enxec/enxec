@@ -1,4 +1,4 @@
-# 제 깃헙 페이지에 방문해주셔서 감사합니다!  👋 &nbsp;&nbsp;&nbsp;&nbsp;[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fenxec&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Today%2FALL&edge_flat=false)](https://hits.seeyoufarm.com)
+# 제 깃헙 페이지에 방문해주셔서 감사합니다!  👋
 
 <br>
 
